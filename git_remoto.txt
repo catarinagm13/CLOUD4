@@ -1,0 +1,3 @@
+git pull: The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content
+git push: The git push command is used to upload local repository content to a remote repository.
+git clone: The git clone command copies your repository from GitHub to your local computer
